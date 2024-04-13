@@ -1,0 +1,20 @@
+{
+  "name": "mmpps0122-simple-calculator",
+  "version": "1.0.1",
+  "description": "This is Simple Calculator by using Node js. and Inquirer",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
